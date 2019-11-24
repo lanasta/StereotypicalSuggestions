@@ -1,0 +1,27 @@
+{
+  "name": "stereotypicalsuggestions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "searchGoogleImages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanasta/StereotypicalSuggestions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanasta/StereotypicalSuggestions/issues"
+  },
+  "homepage": "https://github.com/lanasta/StereotypicalSuggestions#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "jquery": "^3.4.1",
+    "jsdom": "^15.2.1",
+    "node-html-parser": "^1.1.16",
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0"
+  }
+}
