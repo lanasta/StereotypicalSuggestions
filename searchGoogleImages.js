@@ -7,7 +7,7 @@ let report = '';
 
 (async () => {
   try {
-    const browser = await puppeteer.launch({ headless: false });
+    const browser = await puppeteer.launch({});
     var count = 0;
     var subjectArray = Object.keys(stereotypeDictionary);
     var finResults = subjectArray.map(async (i, idx) => {
@@ -16,8 +16,14 @@ let report = '';
             await searchTerm(i, stereotypeDictionary[i][j], (results, key, term) => {
             console.log(results, key, term);
             if (results && results.includes(key)){
-              console.log('spotted result, stereotype for race: ' + key + ' is ' + term);
-              report += 'Stereotypical result found for person: ' + key + ', for search term: ' + term + '\n';
+              for (var k of results) {
+                if (k.indexOf(key) > -1) {
+                  console.log('spotted result, stereotype for race: ' + key + ' is ' + term);
+                  report += 'Stereotypical result found for person: ' + key;
+                  report += k != key ? ' - ' + k : '';
+                  report += ', for search term: ' + term + '\n';
+                }
+              }
             }
             return results;
           });
@@ -52,9 +58,10 @@ let report = '';
             page.close();
           }
     }
+
       } catch (error) {
         console.log(error);
       }
-  })();
+})();
 
 
