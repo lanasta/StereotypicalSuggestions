@@ -2,53 +2,59 @@
 const puppeteer = require('puppeteer');
 const stDict = require("./stereotypeDictionary.js");
 const stereotypeDictionary = stDict.stereotypeDict;
+const fs = require('fs');
+let report = '';
 
-var count = 0;
-for (var i in stereotypeDictionary) {
-    count = 0;
-    for (var j in stereotypeDictionary[i]) {
-      var results = [];
-      (async function(){
-         results = await searchTerm(i, stereotypeDictionary[i][j], (results, key, term)=> {
-           console.log(results, key, term);
-          if (results && results.includes(key)){
-            console.log('spotted result, stereotype for race: ' + key + ' is ' + term);
-          }
-         });
-      })()
-      console.log(i, stereotypeDictionary[i][j]);
-      count ++;
-        if (count > 3) {
-          break;
-        }
-    }
-  }
-
-
-function searchTerm(key, term, callback) {
-    try {
-        (async () => {
-          const browser = await puppeteer.launch({});
-          const page = await browser.newPage();
-          await page.goto('https://www.google.com/search?tbm=isch&q=' + encodeURI(term), { waitUntil: 'networkidle2' });
-          let texts = await page.evaluate(() => {
-            let data = [];
-            let elements = document.getElementsByClassName('Mw2I7');
-            for (var element of elements)
-                data.push(element.textContent);
-            return data;
-        });
-        try {
-          await callback(texts, key, term);
-        } catch (err) {}
-        await browser.close();
-        })()
-      } catch (err) {
-        console.error(err);
-        browser.close();
-
+(async () => {
+  try {
+    const browser = await puppeteer.launch({ headless: false });
+    var count = 0;
+    var subjectArray = Object.keys(stereotypeDictionary);
+    var finResults = subjectArray.map(async (i, idx) => {
+      count = 0;
+      for (var j in stereotypeDictionary[i]) {
+            await searchTerm(i, stereotypeDictionary[i][j], (results, key, term) => {
+            console.log(results, key, term);
+            if (results && results.includes(key)){
+              console.log('spotted result, stereotype for race: ' + key + ' is ' + term);
+              report += 'Stereotypical result found for person: ' + key + ', for search term: ' + term + '\n';
+            }
+            return results;
+          });
+        console.log(i, stereotypeDictionary[i][j]);
+        count ++;
       }
-}
+    });
 
+    Promise.all(finResults).then(() => {
+      browser.close();
+      fs.writeFile('results.txt', report, (err) => {           
+        if (err) throw err; 
+      }) 
+      return false;
+    });
+
+    async function searchTerm(key, term, callback) {
+        try {
+              const page = await browser.newPage();
+              await page.goto('https://www.google.com/search?tbm=isch&q=' + encodeURI(term), { waitUntil: 'networkidle2', timeout: 10000 });
+              let texts = await page.evaluate(() => {
+                let data = [];
+                let elements = document.getElementsByClassName('Mw2I7');
+                for (var element of elements)
+                    data.push(element.textContent);
+                return data;
+            });
+              await callback(texts, key, term);
+              await page.close();
+          } catch (err) {
+            console.error(err);
+            page.close();
+          }
+    }
+      } catch (error) {
+        console.log(error);
+      }
+  })();
 
 
