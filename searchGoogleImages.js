@@ -2,8 +2,10 @@
 const puppeteer = require('puppeteer');
 const stDict = require("./stereotypeDictionary.js");
 const stereotypeDictionary = stDict.stereotypeDict;
+const { personDescriptors } = stDict;
 const fs = require('fs');
 let report = '';
+let pdReport = '';
 
 (async () => {
   try {
@@ -23,6 +25,9 @@ let report = '';
                   report += k != key ? ' - ' + k : '';
                   report += ', for search term: ' + term + '\n';
                 }
+                if (personDescriptors.includes(k.toLowerCase())) {
+                  pdReport += 'Person descriptor result spotted for person: ' + k + ' , for search term: ' + term + '\n';
+                }
               }
             }
             return results;
@@ -35,6 +40,10 @@ let report = '';
     Promise.all(finResults).then(() => {
       browser.close();
       fs.writeFile('results.txt', report, (err) => {           
+        if (err) throw err; 
+      }) 
+
+      fs.writeFile('pdResults.txt', pdReport, (err) => {           
         if (err) throw err; 
       }) 
       return false;
