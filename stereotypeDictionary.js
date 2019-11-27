@@ -14,8 +14,8 @@ exports.stereotypeDict =  {
     "white": ["wealthy", "successful", "physically weak", "gay"],
     "hispanic": ["housekeeper","mason","artist","janitor","dancer","mechanic","photographer","baker","cashier","driver",  "criminals", "gang members", "drug lords" , "violence prone", "lazy",  "unintelligent"],
     "arabs": ["violence prone", "lazy", "unintelligent"],
-    "germans": [ "scientifically-minded", "industrious", "stolid", "intelligent", "methodical", "extremely", "nationalistic", "progressive", "efficient", "jovial", "musical", "persistent", "practical"],
-    "italians": ["artistic", "impulsive", "passionate", "quick-tempered", "musical", "imaginative", "very religious", "talkative", "revengeful", "physically", "dirty", "lazy", "unreliable"]
+    "german": [ "scientifically-minded", "industrious", "stolid", "intelligent", "methodical", "extremely", "nationalistic", "progressive", "efficient", "jovial", "musical", "persistent", "practical"],
+    "italian": ["artistic", "impulsive", "passionate", "quick-tempered", "musical", "imaginative", "very religious", "talkative", "revengeful", "physically", "dirty", "lazy", "unreliable"]
  }
  
  exports.personDescriptors = ["afghan","albanian","algerian","american","andorran",

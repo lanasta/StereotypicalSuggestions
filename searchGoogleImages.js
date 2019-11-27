@@ -17,17 +17,17 @@ let pdReport = '';
       for (var j in stereotypeDictionary[i]) {
             await searchTerm(i, stereotypeDictionary[i][j], (results, key, term) => {
             console.log(results, key, term);
-            if (results && results.includes(key)){
-              for (var k of results) {
+            for (var k of results) {
+              if (results && results.includes(key)){
                 if (k.indexOf(key) > -1) {
                   console.log('spotted result, stereotype for race: ' + key + ' is ' + term);
                   report += 'Stereotypical result found for person: ' + key;
                   report += k != key ? ' - ' + k : '';
                   report += ', for search term: ' + term + '\n';
                 }
-                if (personDescriptors.includes(k.toLowerCase())) {
-                  pdReport += 'Person descriptor result spotted for person: ' + k + ' , for search term: ' + term + '\n';
-                }
+              }
+              if (personDescriptors.includes(k.toLowerCase())) {
+                pdReport += 'Person descriptor result spotted for person: ' + k + ' , for search term: ' + term + '\n';
               }
             }
             return results;
