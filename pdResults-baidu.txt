@@ -1,0 +1,7 @@
+Person descriptor result spotted for person: male - male, for search term: wealthy
+Person descriptor result spotted for person: girl - lazy girl, for search term: lazy
+Person descriptor result spotted for person: singapore - singapore, for search term: football player
+Person descriptor result spotted for person: cuba - cuba, for search term: imitative
+Person descriptor result spotted for person: young - young, for search term: hardworking
+Person descriptor result spotted for person: reunion - reunion, for search term: stubborn
+Person descriptor result spotted for person: man - baker\\'s man, for search term: baker

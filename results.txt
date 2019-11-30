@@ -1,0 +1,12 @@
+Stereotypical result found for person: hispanic, for search term: housekeeper
+Stereotypical result found for person: old, for search term: florida residents
+Stereotypical result found for person: chinese, for search term: good at math
+Stereotypical result found for person: american, for search term: materialistic
+Stereotypical result found for person: black, for search term: football player
+Stereotypical result found for person: black, for search term: basketball player
+Stereotypical result found for person: german, for search term: nationalistic
+Stereotypical result found for person: chinese, for search term: superstitious
+Stereotypical result found for person: black, for search term: musician
+Stereotypical result found for person: black, for search term: athlete
+Stereotypical result found for person: hispanic, for search term: gang members
+Stereotypical result found for person: hispanic - hispanic female, for search term: gang members
