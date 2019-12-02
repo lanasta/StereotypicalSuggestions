@@ -4,6 +4,7 @@ https://docs.google.com/document/d/1iIgkvA0gPGInlx9M_4flj1kyhDXqaJ0o-uFYIEd6JB4/
 //Want to expand the dictionary, making use of https://observablehq.com/@spencermountain/compromise-api
 
 exports.stereotypeDict =  {
+   "girls" : ["bad at math"],
    "women": ["bad at math", "artificial", "caring", "emotional", "attractive","tidy"],
    "asian" : ["bad drivers", "studious", "nerdy", "socially inept", "emasculated", "unattractive", "familialism", "hardworking", "disciplined", "honorary whites"],
    "dutch" : ["tall"],

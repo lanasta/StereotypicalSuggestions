@@ -1,0 +1,2 @@
+Term ran: 132, average results per term: 36.61363636363637
+Stereotypical/person descriptor results percentage: 0.00%
