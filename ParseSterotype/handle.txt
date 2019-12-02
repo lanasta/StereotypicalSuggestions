@@ -1,0 +1,19 @@
+"germans": ["scientifically-minded", "industrious", "stolidintelligent", "methodical", "extremely nationalistic", "progressive", "efficient", "jovial", "musical", "persistent", "practical"],
+"italians": ["artistic", "impulsive", "passionate", "quick-tempered", "musical", "imaginative", "very religious", "talkative", "revengeful", "physically dirty", "lazy", "unreliable"],
+
+"negroes":
+["superstitious", "lazy", "happy-go-lueky", "ignorant", "musical", "ostentatious", "very religious", "stupid", "physically dirty", "naive", "slovenly", "unreliable"]
+"irish":
+["pugnacious", "quick-tempered", "witty", "honest", "very religious", "industrious", "extremely nationalistic", "superstitious", "quarrelsome", "imaginative", "aggressive", "stubborn"],
+ "english":
+ ["sportsmanlike", "intelligent", "conventional", "tradition-loving", "conservative", "reserved", "sophisticated", "courteous", "honest", "industrious", "extremely nationalistic", "humorless"],
+"jews":
+ ["shrewd", "mercenary", "industrious", "grasping", "intelligent", "ambitious", "sly", "loyal to family ties", "persistent", "talkative", "aggressive", "very religious"],
+"japanese":
+  ["intelligent", "industrious", "progressive", "shrewd", "sly", "quiet", "imitative", "alert", "suave", "neat", "treacherous", "aggressive"],
+"americans":
+ ["industrious", "intelligent", "materialistic", "ambitious", "progressive", "pleasure-loving", "alert", "efficient", "aggressive", "straightforward", "practical", "sportsmanlike"],
+"turks":
+  ["cruel", "very religious", "treacherous", "sensual", "ignorant", "physically", "dirty", "deceitful", "sly", "quarrelsome", "revengeful", "conservative", "superstitious"],
+"chinese":
+ ["superstitious", "sly", "conservative", "tradition-loving", "loyal to family ties", "industrious","meditative", "reserved", "very religious", "ignorant", "deceitful", "quiet"]
