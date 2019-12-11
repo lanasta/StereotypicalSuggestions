@@ -1,13 +1,16 @@
-Stereotypical result found for person: girls, for search term: bad at math
 Stereotypical result found for person: old, for search term: florida residents
 Stereotypical result found for person: irish, for search term: drunkards
 Stereotypical result found for person: chinese, for search term: good at math
+Stereotypical result found for person: girls, for search term: bad at math
 Stereotypical result found for person: hispanic, for search term: housekeeper
+Stereotypical result found for person: hispanic, for search term: gang members
+Stereotypical result found for person: hispanic - hispanic female, for search term: gang members
 Stereotypical result found for person: american, for search term: materialistic
 Stereotypical result found for person: black, for search term: football player
-Stereotypical result found for person: german, for search term: nationalistic
 Stereotypical result found for person: black, for search term: basketball player
+Stereotypical result found for person: german, for search term: nationalistic
 Stereotypical result found for person: chinese, for search term: superstitious
 Stereotypical result found for person: black, for search term: musician
-Term ran: 132, average results per term: 22.90909090909091
-Stereotypical/person descriptor results percentage: 0.36%
+Stereotypical result found for person: black, for search term: athlete
+Term ran: 134, average results per term: 23.753731343283583
+Stereotypical/person descriptor results percentage: 0.44%

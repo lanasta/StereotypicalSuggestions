@@ -44,10 +44,11 @@ let cumulativeResultsCount = 0;
         await searchTerm(i, stereotypeDictionary[i][j], (results, key, term) => {
           console.log(results, key, term);
           cumulativeResultsCount += results.length;
+          
           for (let k of results) {
+            k = k.toLowerCase();
             if (results && results.includes(key)){
               if (k.indexOf(key) > -1) {
-                console.log('spotted result, stereotype for race: ' + key + ' is ' + term);
                 report += 'Stereotypical result found for person: ' + key;
                 report += k != key ? ' - ' + k : '';
                 report += ', for search term: ' + term + '\n';
@@ -57,9 +58,9 @@ let cumulativeResultsCount = 0;
             checkInPersonDescriptorList(k, term);
           }
           createFilteredPersonDescriptorList(results, term);
+          checkedTerm.add(stereotypeDictionary[i][j]);
           return results;
       });
-        checkedTerm.add(stereotypeDictionary[i][j]);
       }
     });
 
@@ -110,10 +111,10 @@ let cumulativeResultsCount = 0;
       }
       for (let k of results) {
         k = k.toLowerCase();
-        if (k.indexOf("woman") > -1 || k.indexOf("female") > -1 || k.indexOf("women") > -1 || k.indexOf("females") > -1 ) {
+        if (k.indexOf("woman") > -1 || k.indexOf("female") > -1 || k.indexOf("women") > -1 || k.indexOf("females") > -1 || k.indexOf("girl") > -1  || k.indexOf("girls") > -1) {
           personExistence[0] = 1;
         }
-        if (k.indexOf("man") > -1 || k.indexOf("male") > -1 || k.indexOf("men") > -1 || k.indexOf("males") > -1) {
+        if (k.indexOf("man") > -1 || k.indexOf("male") > -1 || k.indexOf("men") > -1 || k.indexOf("males") > -1 || k.indexOf("boy") > -1  || k.indexOf("boys") > -1) {
           personExistence[1] = 1;
         }
         if (k.indexOf("black") > -1 || k.indexOf("african-american") > -1 || k.indexOf("blacks") > -1 || k.indexOf("african-americans") > -1) {
@@ -127,7 +128,7 @@ let cumulativeResultsCount = 0;
       for (let k of results) {
         k = k.toLowerCase();
         if (personExistence[0] == 1 && personExistence[1] == 1) {
-          if (k.indexOf("woman") > -1 || k.indexOf("female") > -1 || k.indexOf("man") > -1 || k.indexOf("male") > -1 || k.indexOf("women") > -1 || k.indexOf("females") > -1 || k.indexOf("men") > -1 || k.indexOf("males") > -1) {
+          if (k.indexOf("woman") > -1 || k.indexOf("female") > -1 || k.indexOf("man") > -1 || k.indexOf("male") > -1 || k.indexOf("women") > -1 || k.indexOf("females") > -1 || k.indexOf("men") > -1 || k.indexOf("males") > -1 || k.indexOf("girl") > -1  || k.indexOf("girls") > -1 || k.indexOf("boy") > -1  || k.indexOf("boys") > -1) {
             continue;
           }
         }

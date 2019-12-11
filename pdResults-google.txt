@@ -1,201 +1,199 @@
-Person descriptor result spotted for person: child - child, for search term: bad at math
-Person descriptor result spotted for person: child - child, for search term: bad at math
-Person descriptor result spotted for person: man - man, for search term: cruel
+Person descriptor result spotted for person: greece - greece, for search term: violence prone
+Person descriptor result spotted for person: woman - woman, for search term: snooty
 Person descriptor result spotted for person: woman - woman, for search term: tall
 Person descriptor result spotted for person: boy - boy, for search term: tall
 Person descriptor result spotted for person: male - male, for search term: tall
 Person descriptor result spotted for person: chinese - chinese, for search term: tall
-Person descriptor result spotted for person: old - old, for search term: florida residents
 Person descriptor result spotted for person: woman - woman, for search term: blond
-Person descriptor result spotted for person: woman - woman, for search term: snooty
 Person descriptor result spotted for person: old - old, for search term: florida residents
-Person descriptor result spotted for person: man - man, for search term: servant
-Person descriptor result spotted for person: woman - woman, for search term: servant
-Person descriptor result spotted for person: boy - boy, for search term: industrious
-Person descriptor result spotted for person: child - child, for search term: industrious
+Person descriptor result spotted for person: woman - woman, for search term: bad drivers
 Person descriptor result spotted for person: woman - woman, for search term: drunkards
 Person descriptor result spotted for person: kenyan - kenyan, for search term: drunkards
 Person descriptor result spotted for person: irish - irish, for search term: drunkards
 Person descriptor result spotted for person: black - black, for search term: drunkards
 Person descriptor result spotted for person: boy - boy, for search term: drunkards
+Person descriptor result spotted for person: girls - girls, for search term: bad at math
 Person descriptor result spotted for person: man - man, for search term: wealthy
 Person descriptor result spotted for person: south africa - south africa, for search term: wealthy
 Person descriptor result spotted for person: india - india, for search term: wealthy
 Person descriptor result spotted for person: mexico - mexico city, for search term: wealthy
 Person descriptor result spotted for person: saudi - saudi arabia, for search term: wealthy
 Person descriptor result spotted for person: saudi arabia - saudi arabia, for search term: wealthy
-Person descriptor result spotted for person: woman - woman, for search term: bad drivers
 Person descriptor result spotted for person: chinese - chinese, for search term: good at math
 Person descriptor result spotted for person: woman - woman, for search term: good at math
-Person descriptor result spotted for person: man - man, for search term: intelligent
-Person descriptor result spotted for person: child - child, for search term: intelligent
-Person descriptor result spotted for person: boy - boy, for search term: intelligent
+Person descriptor result spotted for person: man - man, for search term: servant
+Person descriptor result spotted for person: woman - woman, for search term: servant
+Person descriptor result spotted for person: girls - girls, for search term: bad at math
 Person descriptor result spotted for person: man - man, for search term: housekeeper
 Person descriptor result spotted for person: old - old, for search term: housekeeper
 Person descriptor result spotted for person: filipino - filipino, for search term: housekeeper
 Person descriptor result spotted for person: spanish - spanish, for search term: housekeeper
 Person descriptor result spotted for person: hispanic - hispanic, for search term: housekeeper
+Person descriptor result spotted for person: old - old, for search term: florida residents
+Person descriptor result spotted for person: man - man, for search term: cruel
 Person descriptor result spotted for person: boy - boy, for search term: industrious
-Person descriptor result spotted for person: child - child, for search term: industrious
-Person descriptor result spotted for person: man - man, for search term: intelligent
-Person descriptor result spotted for person: child - child, for search term: intelligent
-Person descriptor result spotted for person: boy - boy, for search term: intelligent
-Person descriptor result spotted for person: white - white, for search term: smart
-Person descriptor result spotted for person: woman - woman lying, for search term: drinking too much
-Person descriptor result spotted for person: man - man, for search term: lazy
-Person descriptor result spotted for person: child - child, for search term: lazy
-Person descriptor result spotted for person: egyptian - egyptian, for search term: crook
-Person descriptor result spotted for person: egyptian - ancient egyptian, for search term: crook
-Person descriptor result spotted for person: man - man, for search term: successful
-Person descriptor result spotted for person: child - child, for search term: impulsive
 Person descriptor result spotted for person: woman - woman, for search term: impulsive
 Person descriptor result spotted for person: man - man, for search term: impulsive
-Person descriptor result spotted for person: man - man, for search term: greedy
-Person descriptor result spotted for person: woman - woman, for search term: greedy
-Person descriptor result spotted for person: boy - boy, for search term: caring
+Person descriptor result spotted for person: man - man, for search term: lazy
+Person descriptor result spotted for person: boy - boy, for search term: industrious
+Person descriptor result spotted for person: man - man, for search term: successful
 Person descriptor result spotted for person: boy - boy, for search term: studious
 Person descriptor result spotted for person: man - man, for search term: studious
-Person descriptor result spotted for person: child - child, for search term: studious
 Person descriptor result spotted for person: woman - woman, for search term: studious
-Person descriptor result spotted for person: woman - woman, for search term: materialistic
-Person descriptor result spotted for person: american - american, for search term: materialistic
-Person descriptor result spotted for person: man - man, for search term: materialistic
-Person descriptor result spotted for person: woman - woman, for search term: quiet
-Person descriptor result spotted for person: boy - boy, for search term: quiet
+Person descriptor result spotted for person: egyptian - egyptian, for search term: crook
+Person descriptor result spotted for person: egyptian - ancient egyptian, for search term: crook
+Person descriptor result spotted for person: man - man, for search term: intelligent
+Person descriptor result spotted for person: boy - boy, for search term: intelligent
+Person descriptor result spotted for person: woman - woman lying, for search term: drinking too much
+Person descriptor result spotted for person: hispanic - hispanic, for search term: gang members
+Person descriptor result spotted for person: hispanic - hispanic female, for search term: gang members
+Person descriptor result spotted for person: female - hispanic female, for search term: gang members
+Person descriptor result spotted for person: old - old school, for search term: gang members
+Person descriptor result spotted for person: woman - woman, for search term: gang members
 Person descriptor result spotted for person: woman - woman, for search term: passionate
 Person descriptor result spotted for person: man - man, for search term: passionate
+Person descriptor result spotted for person: man - man, for search term: greedy
+Person descriptor result spotted for person: woman - woman, for search term: greedy
+Person descriptor result spotted for person: man - man, for search term: intelligent
+Person descriptor result spotted for person: boy - boy, for search term: intelligent
+Person descriptor result spotted for person: white - white, for search term: smart
 Person descriptor result spotted for person: man - man, for search term: physically weak
 Person descriptor result spotted for person: boy - boy, for search term: physically weak
 Person descriptor result spotted for person: female - female, for search term: physically weak
-Person descriptor result spotted for person: white - white, for search term: rapper
-Person descriptor result spotted for person: old - old school, for search term: rapper
-Person descriptor result spotted for person: male - male, for search term: rapper
-Person descriptor result spotted for person: french - french, for search term: artist
-Person descriptor result spotted for person: woman - woman, for search term: ambitious
-Person descriptor result spotted for person: boy - boy, for search term: ambitious
-Person descriptor result spotted for person: white - white, for search term: sensual
-Person descriptor result spotted for person: boy - boy, for search term: emotional
-Person descriptor result spotted for person: man - man, for search term: emotional
-Person descriptor result spotted for person: child - child, for search term: emotional
 Person descriptor result spotted for person: boy - boy, for search term: nerdy
 Person descriptor result spotted for person: white - white, for search term: nerdy
 Person descriptor result spotted for person: male - male, for search term: nerdy
 Person descriptor result spotted for person: black - black, for search term: nerdy
-Person descriptor result spotted for person: child - child, for search term: obedient
-Person descriptor result spotted for person: boy - boy, for search term: obedient
-Person descriptor result spotted for person: german - german shepherd, for search term: obedient
-Person descriptor result spotted for person: black - black, for search term: ignorant
-Person descriptor result spotted for person: boy - boy, for search term: ignorant
+Person descriptor result spotted for person: white - white, for search term: rapper
+Person descriptor result spotted for person: old - old school, for search term: rapper
+Person descriptor result spotted for person: male - male, for search term: rapper
+Person descriptor result spotted for person: woman - woman, for search term: materialistic
+Person descriptor result spotted for person: american - american, for search term: materialistic
+Person descriptor result spotted for person: man - man, for search term: materialistic
+Person descriptor result spotted for person: mexican - mexican, for search term: drug lords
+Person descriptor result spotted for person: colombia - colombia, for search term: drug lords
+Person descriptor result spotted for person: philippines - philippines, for search term: drug lords
+Person descriptor result spotted for person: woman - woman, for search term: drug lords
+Person descriptor result spotted for person: black - black, for search term: drug lords
+Person descriptor result spotted for person: brazil - brazil, for search term: drug lords
+Person descriptor result spotted for person: boy - boy, for search term: caring
+Person descriptor result spotted for person: woman - woman, for search term: quiet
+Person descriptor result spotted for person: boy - boy, for search term: quiet
 Person descriptor result spotted for person: american - american, for search term: football player
 Person descriptor result spotted for person: brazil - brazil, for search term: football player
 Person descriptor result spotted for person: black - black, for search term: football player
 Person descriptor result spotted for person: white - white, for search term: football player
 Person descriptor result spotted for person: male - male, for search term: football player
-Person descriptor result spotted for person: woman - woman, for search term: janitor
-Person descriptor result spotted for person: old - old, for search term: janitor
-Person descriptor result spotted for person: male - male, for search term: janitor
-Person descriptor result spotted for person: black - black, for search term: janitor
-Person descriptor result spotted for person: filipino - filipino, for search term: janitor
+Person descriptor result spotted for person: senior - senior, for search term: football player
+Person descriptor result spotted for person: woman - woman, for search term: ambitious
+Person descriptor result spotted for person: boy - boy, for search term: ambitious
+Person descriptor result spotted for person: white - white, for search term: sensual
+Person descriptor result spotted for person: boy - boy, for search term: emotional
+Person descriptor result spotted for person: man - man, for search term: emotional
+Person descriptor result spotted for person: boy - boy, for search term: obedient
+Person descriptor result spotted for person: german - german shepherd, for search term: obedient
+Person descriptor result spotted for person: man - man, for search term: emasculated
+Person descriptor result spotted for person: black - black, for search term: emasculated
+Person descriptor result spotted for person: white - white man, for search term: emasculated
+Person descriptor result spotted for person: man - white man, for search term: emasculated
+Person descriptor result spotted for person: white - white, for search term: basketball player
+Person descriptor result spotted for person: black - black, for search term: basketball player
+Person descriptor result spotted for person: jordan - jordan, for search term: basketball player
+Person descriptor result spotted for person: boy - boy, for search term: basketball player
+Person descriptor result spotted for person: old - old, for search term: basketball player
+Person descriptor result spotted for person: woman - woman, for search term: witty
+Person descriptor result spotted for person: boy - boy, for search term: imaginative
 Person descriptor result spotted for person: american - american, for search term: conservative
 Person descriptor result spotted for person: canada - canada, for search term: conservative
 Person descriptor result spotted for person: woman - woman, for search term: conservative
+Person descriptor result spotted for person: french - french, for search term: artist
+Person descriptor result spotted for person: black - black, for search term: ignorant
+Person descriptor result spotted for person: boy - boy, for search term: ignorant
 Person descriptor result spotted for person: male - male, for search term: attractive
 Person descriptor result spotted for person: boy - boy, for search term: attractive
 Person descriptor result spotted for person: old - old, for search term: attractive
 Person descriptor result spotted for person: japanese - japanese, for search term: attractive
 Person descriptor result spotted for person: german - german, for search term: nationalistic
 Person descriptor result spotted for person: japanese - japanese, for search term: nationalistic
-Person descriptor result spotted for person: woman - woman, for search term: witty
 Person descriptor result spotted for person: male - male, for search term: mercenary
-Person descriptor result spotted for person: white - white, for search term: basketball player
-Person descriptor result spotted for person: black - black, for search term: basketball player
-Person descriptor result spotted for person: jordan - jordan, for search term: basketball player
-Person descriptor result spotted for person: boy - boy, for search term: basketball player
-Person descriptor result spotted for person: old - old, for search term: basketball player
-Person descriptor result spotted for person: black - black, for search term: dancer
-Person descriptor result spotted for person: boy - boy, for search term: dancer
-Person descriptor result spotted for person: man - man, for search term: emasculated
-Person descriptor result spotted for person: black - black, for search term: emasculated
-Person descriptor result spotted for person: white - white man, for search term: emasculated
-Person descriptor result spotted for person: man - white man, for search term: emasculated
-Person descriptor result spotted for person: india - india, for search term: superstitious
-Person descriptor result spotted for person: filipino - filipino, for search term: superstitious
-Person descriptor result spotted for person: chinese - chinese, for search term: superstitious
-Person descriptor result spotted for person: woman - woman, for search term: superstitious
-Person descriptor result spotted for person: man - man, for search term: superstitious
-Person descriptor result spotted for person: child - child, for search term: imaginative
-Person descriptor result spotted for person: boy - boy, for search term: imaginative
-Person descriptor result spotted for person: woman - woman, for search term: grasping
-Person descriptor result spotted for person: child - child, for search term: grasping
-Person descriptor result spotted for person: child - child, for search term: honest
-Person descriptor result spotted for person: woman - woman, for search term: honest
-Person descriptor result spotted for person: man - man, for search term: honest
-Person descriptor result spotted for person: child - child, for search term: tidy
-Person descriptor result spotted for person: woman - woman, for search term: deceitful
-Person descriptor result spotted for person: man - man, for search term: deceitful
+Person descriptor result spotted for person: woman - woman, for search term: unattractive
+Person descriptor result spotted for person: man - man, for search term: unattractive
+Person descriptor result spotted for person: boy - boy, for search term: unattractive
 Person descriptor result spotted for person: woman - woman, for search term: cook
 Person descriptor result spotted for person: man - man, for search term: cook
 Person descriptor result spotted for person: italian - italian, for search term: cook
 Person descriptor result spotted for person: indian - indian, for search term: cook
 Person descriptor result spotted for person: chinese - chinese, for search term: cook
-Person descriptor result spotted for person: male - male, for search term: mechanic
-Person descriptor result spotted for person: black - black, for search term: mechanic
-Person descriptor result spotted for person: woman - woman, for search term: mechanic
-Person descriptor result spotted for person: old - old, for search term: mechanic
-Person descriptor result spotted for person: woman - woman, for search term: unattractive
-Person descriptor result spotted for person: man - man, for search term: unattractive
-Person descriptor result spotted for person: child - child, for search term: unattractive
-Person descriptor result spotted for person: boy - boy, for search term: unattractive
+Person descriptor result spotted for person: woman - woman, for search term: honest
+Person descriptor result spotted for person: man - man, for search term: honest
+Person descriptor result spotted for person: woman - woman, for search term: janitor
+Person descriptor result spotted for person: old - old, for search term: janitor
+Person descriptor result spotted for person: male - male, for search term: janitor
+Person descriptor result spotted for person: black - black, for search term: janitor
+Person descriptor result spotted for person: filipino - filipino, for search term: janitor
+Person descriptor result spotted for person: woman - woman, for search term: talkative
+Person descriptor result spotted for person: boy - boy, for search term: talkative
+Person descriptor result spotted for person: woman - woman, for search term: grasping
+Person descriptor result spotted for person: latino - latino, for search term: familialism
+Person descriptor result spotted for person: india - india, for search term: superstitious
+Person descriptor result spotted for person: filipino - filipino, for search term: superstitious
+Person descriptor result spotted for person: chinese - chinese, for search term: superstitious
+Person descriptor result spotted for person: woman - woman, for search term: superstitious
+Person descriptor result spotted for person: man - man, for search term: superstitious
+Person descriptor result spotted for person: american - american, for search term: extremely nationalistic
+Person descriptor result spotted for person: austria - austria hungary, for search term: extremely nationalistic
+Person descriptor result spotted for person: hungary - austria hungary, for search term: extremely nationalistic
+Person descriptor result spotted for person: india - project class 10 india, for search term: extremely nationalistic
+Person descriptor result spotted for person: black - black, for search term: dancer
+Person descriptor result spotted for person: boy - boy, for search term: dancer
+Person descriptor result spotted for person: woman - woman, for search term: revengeful
 Person descriptor result spotted for person: man - man, for search term: sophisticated
 Person descriptor result spotted for person: woman - woman, for search term: sophisticated
 Person descriptor result spotted for person: black - black, for search term: sophisticated
 Person descriptor result spotted for person: man - man, for search term: jovial
 Person descriptor result spotted for person: man - old man, for search term: jovial
 Person descriptor result spotted for person: old - old man, for search term: jovial
-Person descriptor result spotted for person: woman - woman, for search term: talkative
-Person descriptor result spotted for person: boy - boy, for search term: talkative
-Person descriptor result spotted for person: american - american, for search term: extremely nationalistic
-Person descriptor result spotted for person: austria - austria hungary, for search term: extremely nationalistic
-Person descriptor result spotted for person: hungary - austria hungary, for search term: extremely nationalistic
-Person descriptor result spotted for person: india - project class 10 india, for search term: extremely nationalistic
+Person descriptor result spotted for person: woman - woman, for search term: deceitful
+Person descriptor result spotted for person: man - man, for search term: deceitful
 Person descriptor result spotted for person: man - man, for search term: suave
 Person descriptor result spotted for person: moroccan - moroccan, for search term: suave
-Person descriptor result spotted for person: male - male, for search term: photographer
-Person descriptor result spotted for person: woman - woman, for search term: photographer
-Person descriptor result spotted for person: boy - boy, for search term: photographer
-Person descriptor result spotted for person: child - child, for search term: aggressive
-Person descriptor result spotted for person: boy - boy, for search term: aggressive
-Person descriptor result spotted for person: child - child suffering, for search term: quarrelsome
-Person descriptor result spotted for person: latino - latino, for search term: familialism
-Person descriptor result spotted for person: woman - woman, for search term: meditative
-Person descriptor result spotted for person: child - child, for search term: courteous
-Person descriptor result spotted for person: child - child suffering, for search term: quarrelsome
-Person descriptor result spotted for person: woman - woman, for search term: revengeful
-Person descriptor result spotted for person: woman - woman, for search term: straightforward
-Person descriptor result spotted for person: man - spider man, for search term: neat
-Person descriptor result spotted for person: woman - woman, for search term: baker
-Person descriptor result spotted for person: french - french, for search term: baker
-Person descriptor result spotted for person: male - male, for search term: baker
-Person descriptor result spotted for person: old - old, for search term: baker
-Person descriptor result spotted for person: black - black, for search term: musician
-Person descriptor result spotted for person: woman - woman, for search term: musician
-Person descriptor result spotted for person: indian - indian, for search term: musician
-Person descriptor result spotted for person: old - old, for search term: musician
 Person descriptor result spotted for person: woman - woman, for search term: hardworking
 Person descriptor result spotted for person: man - man, for search term: hardworking
 Person descriptor result spotted for person: filipino - filipino, for search term: hardworking
 Person descriptor result spotted for person: chinese - chinese, for search term: hardworking
 Person descriptor result spotted for person: japanese - japanese, for search term: hardworking
+Person descriptor result spotted for person: black - black, for search term: musician
+Person descriptor result spotted for person: woman - woman, for search term: musician
+Person descriptor result spotted for person: indian - indian, for search term: musician
+Person descriptor result spotted for person: old - old, for search term: musician
+Person descriptor result spotted for person: boy - boy, for search term: aggressive
 Person descriptor result spotted for person: man - man, for search term: unreliable
-Person descriptor result spotted for person: male - male, for search term: cashier
-Person descriptor result spotted for person: woman - woman, for search term: cashier
+Person descriptor result spotted for person: male - male, for search term: mechanic
+Person descriptor result spotted for person: black - black, for search term: mechanic
+Person descriptor result spotted for person: woman - woman, for search term: mechanic
+Person descriptor result spotted for person: old - old, for search term: mechanic
+Person descriptor result spotted for person: boy - boy, for search term: aggressive
+Person descriptor result spotted for person: man - spider man, for search term: neat
+Person descriptor result spotted for person: woman - woman, for search term: meditative
+Person descriptor result spotted for person: man - man, for search term: disciplined
+Person descriptor result spotted for person: woman - woman, for search term: straightforward
+Person descriptor result spotted for person: male - male, for search term: athlete
+Person descriptor result spotted for person: black - black, for search term: athlete
+Person descriptor result spotted for person: male - male, for search term: photographer
+Person descriptor result spotted for person: woman - woman, for search term: photographer
+Person descriptor result spotted for person: boy - boy, for search term: photographer
+Person descriptor result spotted for person: woman - woman, for search term: baker
+Person descriptor result spotted for person: french - french, for search term: baker
+Person descriptor result spotted for person: male - male, for search term: baker
+Person descriptor result spotted for person: old - old, for search term: baker
 Person descriptor result spotted for person: woman - woman, for search term: stubborn
 Person descriptor result spotted for person: man - man, for search term: stubborn
 Person descriptor result spotted for person: boy - boy, for search term: stubborn
-Person descriptor result spotted for person: child - child, for search term: disciplined
-Person descriptor result spotted for person: man - man, for search term: disciplined
+Person descriptor result spotted for person: girls - girls doing, for search term: doing bad things
+Person descriptor result spotted for person: male - male, for search term: cashier
+Person descriptor result spotted for person: woman - woman, for search term: cashier
 Person descriptor result spotted for person: woman - woman, for search term: driver
 Person descriptor result spotted for person: man - man, for search term: driver
 Person descriptor result spotted for person: black - black, for search term: driver
-Term ran: 132, average results per term: 22.90909090909091
-Stereotypical/person descriptor results percentage: 6.58%
+Term ran: 134, average results per term: 23.753731343283583
+Stereotypical/person descriptor results percentage: 6.19%
