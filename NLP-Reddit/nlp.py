@@ -42,7 +42,7 @@ def getNoun(tokens):
 	print("Now it is the noun part")
 	ncount = 0;
 	for key in dic.keys():
-		if dic[key] > 0:
+		if dic[key] > 20:
 			curstring = "'"+key+"',"
 			handle.write(curstring)
 			print(key)
@@ -79,7 +79,7 @@ def getAdj(tokens):
 	print("Now it is the Adj part")
 	adjcount = 0;
 	for key in dic.keys():
-		if dic[key] > 0:
+		if dic[key] > 15:
 			print(key)
 			curstring = "'"+key+"',"
 			handle.write(curstring)
