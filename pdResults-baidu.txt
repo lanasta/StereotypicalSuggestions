@@ -1,9 +1,8 @@
 Person descriptor result spotted for person: male - male, for search term: wealthy
 Person descriptor result spotted for person: girl - lazy girl, for search term: lazy
-Person descriptor result spotted for person: singapore - singapore, for search term: football player
+Person descriptor result spotted for person: boy - lazy boy, for search term: lazy
+Person descriptor result spotted for person: france - france, for search term: artist
 Person descriptor result spotted for person: cuba - cuba, for search term: imitative
 Person descriptor result spotted for person: man - baker\\'s man, for search term: baker
-Person descriptor result spotted for person: young - young, for search term: hardworking
-Person descriptor result spotted for person: reunion - reunion, for search term: stubborn
-Term ran: 130, average results per term: 9.36923076923077
+Term ran: 144, average results per term: 7.368055555555555
 Stereotypical/person descriptor results percentage: 0.57%
