@@ -12,12 +12,12 @@ def getToken():
 	
 def useToken(token):
 	headers = {"Authorization": "bearer "+token, "User-Agent": "ChangeMeClient/0.1 by YourUsername"}
-	response = requests.get("https://oauth.reddit.com/comments/918i6o/", headers=headers)
+	response = requests.get("https://oauth.reddit.com/comments/4n0mvq/", headers=headers)
 	return response.json()
 
 def getComment(token,url):
 	headers = {"Authorization": "bearer "+token, "User-Agent": "ChangeMeClient/0.1 by YourUsername"}
-	response = requests.get("https://oauth.reddit.com/r/AskReddit/comments/918i6o/men_of_reddit_what_male_stereotype_do_you_dislike/"+url, headers=headers)
+	response = requests.get("https://oauth.reddit.com/r/AskReddit/comments/4n0mvq/men_of_reddit_what_male_stereotype_do_you_dislike/"+url, headers=headers)
 	return response.json()
 	
 	

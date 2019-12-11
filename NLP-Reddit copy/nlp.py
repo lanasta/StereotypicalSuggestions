@@ -30,10 +30,9 @@ def getNoun(tokens):
 	new_path = 'nounls.txt'
 	handle = open(new_path,'w+')
 	handle.write('[')
-	porter = PorterStemmer()
 	for token in tokens:
 		if token[1] == 'NN':
-			key = porter.stem(token[0].lower())
+			key = token[0].lower()
 			if key in dic.keys():
 				dic[key] += 1
 			else:
@@ -66,10 +65,9 @@ def getAdj(tokens):
 	new_path = 'adjls.txt'
 	handle = open(new_path,'w+')
 	handle.write('[')
-	porter = PorterStemmer()
 	for token in tokens:
 		if token[1] == 'JJ':
-			key = porter.stem(token[0].lower())
+			key = token[0].lower()
 			if key in dic.keys():
 				dic[key] += 1
 			else:
