@@ -7,7 +7,7 @@ To run the stereotypical suggestions checker, use this command:
 WEBSITE_TO_CHECK=<choose from google, baidu, bing> node searchGoogleImages.js
 
 To run the stereotypical suggestions checker one after another, use this command:
-WEBSITE_TO_CHECK=google node searchGoogleImages.js && WEBSITE_TO_CHECK=google bing searchGoogleImages.js && WEBSITE_TO_CHECK=google baidu searchGoogleImages.js
+WEBSITE_TO_CHECK=google node searchGoogleImages.js && WEBSITE_TO_CHECK=bing searchGoogleImages.js && WEBSITE_TO_CHECK=baidu searchGoogleImages.js
 
 
 You can add your very own stereotype dictionary, or modify the existing one by editing the stereotypeDictionary.js file.
